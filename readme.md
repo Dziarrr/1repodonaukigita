@@ -1,5 +1,9 @@
-ciekawe czy mi to nadpisze jak zpuszuję?
+### upload
+dodawanie do kolejki (stage):
+> git add .
 
+wstawienie commita
+> git commit -m "komentarz do commita"
 ### ściąganie do siebie (nadpisuje zmiany)
 
 > git pull origin master
