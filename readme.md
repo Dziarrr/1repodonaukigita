@@ -1,7 +1,7 @@
 ###
 //ściąganie do siebie (nadpisuje zmiany)
 
-git pull origin master
+> git pull origin master
 
 ###
 how to add local PC files to online repo
