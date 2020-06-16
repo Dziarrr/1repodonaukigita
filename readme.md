@@ -4,6 +4,9 @@ dodawanie do kolejki (stage):
 
 wstawienie commita
 > git commit -m "komentarz do commita"
+
+i sam upload na mastera:
+> git push origin master
 ### ściąganie do siebie (nadpisuje zmiany)
 
 > git pull origin master
