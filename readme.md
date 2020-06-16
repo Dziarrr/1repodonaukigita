@@ -1,3 +1,9 @@
+###
+ściąganie do siebie
+
+git pull origin master
+
+###
 how to add local PC files to online repo
 
 Create a new repository on GitHub. You can also add a gitignore file, a readme and a licence if you want
