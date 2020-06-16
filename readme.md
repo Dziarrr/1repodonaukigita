@@ -1,5 +1,5 @@
 ###
-ściąganie do siebie (nadpisuje zmiany)
+//ściąganie do siebie (nadpisuje zmiany)
 
 git pull origin master
 
