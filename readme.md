@@ -1,4 +1,4 @@
-
+ciekawe czy mi to nadpisze jak zpuszuję?
 
 ### ściąganie do siebie (nadpisuje zmiany)
 
