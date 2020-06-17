@@ -11,8 +11,8 @@ i sam upload tego commita na mastera:
 
 > git pull origin master
 
-### how to add local PC files to online repo
 
+## Tworzenie repozytorium z istniejącego już folderu
 Create a new repository on GitHub. You can also add a gitignore file, a readme and a licence if you want
  
 Open Git Bash
