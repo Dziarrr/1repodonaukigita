@@ -2,10 +2,10 @@
 dodawanie do kolejki (stage):
 > git add .
 
-wstawienie commita
+wstawienie commita (czyli zatwierdzenie zmian)
 > git commit -m "komentarz do commita"
 
-i sam upload na mastera:
+i sam upload tego commita na mastera:
 > git push origin master
 ### ściąganie do siebie (nadpisuje zmiany)
 
