@@ -8,9 +8,16 @@ wstawienie commita (czyli zatwierdzenie zmian)
 
 i sam upload tego commita na mastera:
 > git push origin master
+
 ### ściąganie do siebie (nadpisuje zmiany)
 
 > git pull origin master
+
+### branch
+tworzenie nowego brancha
+> git branch rozlam1
+> git pull origin master
+> git add zmiany, commit, push
 
 
 ## Tworzenie repozytorium z istniejącego już folderu
