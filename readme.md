@@ -1,5 +1,5 @@
 ## Podręczne komendy
-### upload
+### upload zmian
 dodawanie do kolejki (stage):
 > git add .
 
