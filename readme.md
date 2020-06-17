@@ -16,12 +16,16 @@ i sam upload tego commita na mastera:
 ### branch
 tworzenie nowego brancha
 > git branch rozlam1
+
 wejście na nowy branch
 > git checkout rozlam1
+
 dodanie nowych plików
 > git add .
+
 commit z opisem
 > git add commit -m "pliki do nowego brancha rozlam1"
+
 upload do chmury
 > git push origin rozlam1
 
