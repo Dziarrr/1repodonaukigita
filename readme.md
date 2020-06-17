@@ -3,6 +3,9 @@
 dodawanie do kolejki (stage):
 > git add .
 
+podgląd jakie pliki zostały skolejkowane:
+> git status
+
 wstawienie commita (czyli zatwierdzenie zmian)
 > git commit -m "komentarz do commita"
 
